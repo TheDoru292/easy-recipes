@@ -1,4 +1,4 @@
-# odin-recipes
+# easy-recipes
 
 The current project is all about recipes!
 
